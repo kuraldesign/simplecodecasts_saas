@@ -1,7 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Kural Design Project Application 
+Subscription-baased web application
+http://kuraldesign.com
 
 Things you may want to cover:
 
